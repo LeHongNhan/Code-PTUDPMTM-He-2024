@@ -1,0 +1,16 @@
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\LeHongNhan_B01.MaTran.resources
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\LeHongNhan_B01.csproj.GenerateResource.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\LeHongNhan_B01.GeneratedMSBuildEditorConfig.editorconfig
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\LeHongNhan_B01.AssemblyInfoInputs.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\LeHongNhan_B01.AssemblyInfo.cs
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\LeHongNhan_B01.csproj.CoreCompileInputs.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\bin\Debug\net8.0-windows\LeHongNhan_B01.exe
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\bin\Debug\net8.0-windows\LeHongNhan_B01.deps.json
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\bin\Debug\net8.0-windows\LeHongNhan_B01.runtimeconfig.json
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\bin\Debug\net8.0-windows\LeHongNhan_B01.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\bin\Debug\net8.0-windows\LeHongNhan_B01.pdb
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\LeHongNhan_B01.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\refint\LeHongNhan_B01.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\LeHongNhan_B01.pdb
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\LeHongNhan_B01.genruntimeconfig.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\LeHongNhan_B01\LeHongNhan_B01\obj\Debug\net8.0-windows\ref\LeHongNhan_B01.dll
