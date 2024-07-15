@@ -1,0 +1,15 @@
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\bin\Debug\FormDongHo.exe.config
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\bin\Debug\FormDongHo.exe
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\bin\Debug\FormDongHo.pdb
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\bin\Debug\CustomComponent.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\bin\Debug\UC_DongHo.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\bin\Debug\UC_DongHo.pdb
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\bin\Debug\CustomComponent.pdb
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\obj\Debug\FormDongHo.csproj.AssemblyReference.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\obj\Debug\FormDongHo.Form1.resources
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\obj\Debug\FormDongHo.Properties.Resources.resources
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\obj\Debug\FormDongHo.csproj.GenerateResource.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\obj\Debug\FormDongHo.csproj.CoreCompileInputs.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\obj\Debug\FormDongHo.csproj.Up2Date
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\obj\Debug\FormDongHo.exe
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\FormDongHo\obj\Debug\FormDongHo.pdb

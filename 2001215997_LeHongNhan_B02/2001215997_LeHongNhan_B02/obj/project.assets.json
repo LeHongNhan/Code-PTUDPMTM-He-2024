@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "CustomComponent/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CustomComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomComponent.dll": {}
+        }
+      },
+      "UC_DongHo/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CustomComponent": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UC_DongHo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UC_DongHo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomComponent/1.0.0": {
+      "type": "project",
+      "path": "../CustomComponent/CustomComponent.csproj",
+      "msbuildProject": "../CustomComponent/CustomComponent.csproj"
+    },
+    "UC_DongHo/1.0.0": {
+      "type": "project",
+      "path": "../UC_DongHo/UC_DongHo.csproj",
+      "msbuildProject": "../UC_DongHo/UC_DongHo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "CustomComponent >= 1.0.0",
+      "UC_DongHo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nhang\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\NBuu-Daihoc\\Học kỳ hè năm 3\\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\\Về nhà\\Code-PTUDPMTM-He-2024\\2001215997_LeHongNhan_B02\\2001215997_LeHongNhan_B02\\2001215997_LeHongNhan_B02.csproj",
+      "projectName": "2001215997_LeHongNhan_B02",
+      "projectPath": "E:\\NBuu-Daihoc\\Học kỳ hè năm 3\\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\\Về nhà\\Code-PTUDPMTM-He-2024\\2001215997_LeHongNhan_B02\\2001215997_LeHongNhan_B02\\2001215997_LeHongNhan_B02.csproj",
+      "packagesPath": "C:\\Users\\nhang\\.nuget\\packages\\",
+      "outputPath": "E:\\NBuu-Daihoc\\Học kỳ hè năm 3\\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\\Về nhà\\Code-PTUDPMTM-He-2024\\2001215997_LeHongNhan_B02\\2001215997_LeHongNhan_B02\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "E:\\NBuu-Daihoc\\Học kỳ hè năm 3\\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\\Về nhà\\Code-PTUDPMTM-He-2024\\2001215997_LeHongNhan_B02\\CustomComponent\\CustomComponent.csproj": {
+              "projectPath": "E:\\NBuu-Daihoc\\Học kỳ hè năm 3\\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\\Về nhà\\Code-PTUDPMTM-He-2024\\2001215997_LeHongNhan_B02\\CustomComponent\\CustomComponent.csproj"
+            },
+            "E:\\NBuu-Daihoc\\Học kỳ hè năm 3\\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\\Về nhà\\Code-PTUDPMTM-He-2024\\2001215997_LeHongNhan_B02\\UC_DongHo\\UC_DongHo.csproj": {
+              "projectPath": "E:\\NBuu-Daihoc\\Học kỳ hè năm 3\\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\\Về nhà\\Code-PTUDPMTM-He-2024\\2001215997_LeHongNhan_B02\\UC_DongHo\\UC_DongHo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

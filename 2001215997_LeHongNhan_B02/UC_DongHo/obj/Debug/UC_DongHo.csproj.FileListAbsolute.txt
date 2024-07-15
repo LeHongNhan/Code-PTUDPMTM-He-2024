@@ -1,0 +1,11 @@
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\bin\Debug\UC_DongHo.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\bin\Debug\UC_DongHo.pdb
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\bin\Debug\CustomComponent.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\bin\Debug\CustomComponent.pdb
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\obj\Debug\UC_DongHo.csproj.AssemblyReference.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\obj\Debug\UC_DongHo.DongHoDemNguoc.resources
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\obj\Debug\UC_DongHo.csproj.GenerateResource.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\obj\Debug\UC_DongHo.csproj.CoreCompileInputs.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\obj\Debug\UC_DongHo.csproj.Up2Date
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\obj\Debug\UC_DongHo.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\UC_DongHo\obj\Debug\UC_DongHo.pdb

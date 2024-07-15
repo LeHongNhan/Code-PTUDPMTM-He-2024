@@ -1,0 +1,6 @@
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\CustomComponent\bin\Debug\CustomComponent.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\CustomComponent\bin\Debug\CustomComponent.pdb
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\CustomComponent\obj\Debug\CustomComponent.csproj.AssemblyReference.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\CustomComponent\obj\Debug\CustomComponent.csproj.CoreCompileInputs.cache
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\CustomComponent\obj\Debug\CustomComponent.dll
+E:\NBuu-Daihoc\Học kỳ hè năm 3\PHÁT TRIỂN PHẦN MỀM ỨNG DỤNG THÔNG MINH\Về nhà\Code-PTUDPMTM-He-2024\2001215997_LeHongNhan_B02\CustomComponent\obj\Debug\CustomComponent.pdb
