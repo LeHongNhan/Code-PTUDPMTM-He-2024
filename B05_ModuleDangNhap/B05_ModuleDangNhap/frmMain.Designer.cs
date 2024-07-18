@@ -35,6 +35,7 @@
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.itemNhomND = new System.Windows.Forms.ToolStripMenuItem();
             this.itemManHinh = new System.Windows.Forms.ToolStripMenuItem();
+            this.thêmNgườiDùngVàoNhóToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -54,7 +55,8 @@
             this.hệThốngToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.itemNguoidung,
             this.itemNhomND,
-            this.itemManHinh});
+            this.itemManHinh,
+            this.thêmNgườiDùngVàoNhóToolStripMenuItem});
             this.hệThốngToolStripMenuItem.Name = "hệThốngToolStripMenuItem";
             this.hệThốngToolStripMenuItem.Size = new System.Drawing.Size(69, 20);
             this.hệThốngToolStripMenuItem.Text = "Hệ thống";
@@ -96,6 +98,13 @@
             this.itemManHinh.Text = "Màn hình";
             this.itemManHinh.Click += new System.EventHandler(this.itemManHinh_Click);
             // 
+            // thêmNgườiDùngVàoNhóToolStripMenuItem
+            // 
+            this.thêmNgườiDùngVàoNhóToolStripMenuItem.Name = "thêmNgườiDùngVàoNhóToolStripMenuItem";
+            this.thêmNgườiDùngVàoNhóToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.thêmNgườiDùngVàoNhóToolStripMenuItem.Text = "Thêm người dùng vào nhó,";
+            this.thêmNgườiDùngVàoNhóToolStripMenuItem.Click += new System.EventHandler(this.thêmNgườiDùngVàoNhóToolStripMenuItem_Click);
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -125,5 +134,6 @@
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel1;
         private System.Windows.Forms.ToolStripMenuItem itemNhomND;
         private System.Windows.Forms.ToolStripMenuItem itemManHinh;
+        private System.Windows.Forms.ToolStripMenuItem thêmNgườiDùngVàoNhóToolStripMenuItem;
     }
 }

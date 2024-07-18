@@ -46,5 +46,12 @@ namespace B05_ModuleDangNhap
             form.Show();
         }
 
+        private void thêmNgườiDùngVàoNhóToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmThemNguoiDungVaoNhom form = new frmThemNguoiDungVaoNhom();
+            form.MdiParent = this;
+            form.Show();
+        }
+
     }
 }

@@ -68,9 +68,33 @@
     <Compile Include="frmQLNguoiDung.Designer.cs">
       <DependentUpon>frmQLNguoiDung.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmQLNhomNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLNhomNguoiDung.Designer.cs">
+      <DependentUpon>frmQLNhomNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemNguoiDungVaoNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemNguoiDungVaoNhom.Designer.cs">
+      <DependentUpon>frmThemNguoiDungVaoNhom.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginResult.cs" />
+    <Compile Include="PhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhanQuyen.Designer.cs">
+      <DependentUpon>PhanQuyen.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmQLManHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLManHinh.Designer.cs">
+      <DependentUpon>frmQLManHinh.cs</DependentUpon>
+    </Compile>
     <Compile Include="QLNguoiDung.cs">
       <DependentUpon>QLNguoiDung.xsd</DependentUpon>
       <SubType>Component</SubType>
@@ -93,6 +117,15 @@
     <EmbeddedResource Include="frmQLNguoiDung.resx">
       <DependentUpon>frmQLNguoiDung.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmQLNhomNguoiDung.resx">
+      <DependentUpon>frmQLNhomNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemNguoiDungVaoNhom.resx">
+      <DependentUpon>frmThemNguoiDungVaoNhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhanQuyen.resx">
+      <DependentUpon>PhanQuyen.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -102,6 +135,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="frmQLManHinh.resx">
+      <DependentUpon>frmQLManHinh.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
