@@ -53,5 +53,12 @@ namespace B05_ModuleDangNhap
             form.Show();
         }
 
+        private void itemPhanQuyen_Click(object sender, EventArgs e)
+        {
+            PhanQuyen form = new PhanQuyen();
+            form.MdiParent = this;
+            form.Show();
+        }
+
     }
 }

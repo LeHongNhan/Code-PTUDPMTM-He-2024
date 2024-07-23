@@ -20,7 +20,8 @@ namespace B05_ModuleDangNhap
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             frmDN = new frmDangNhap();
-            Application.Run(frmDN);
+            mainForm = new frmMain();
+            Application.Run(mainForm);
         }
     }
 }
